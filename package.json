@@ -1,0 +1,22 @@
+{
+  "name": "cypress-my",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "cypress:run": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.5",
+    "@babel/preset-env": "7.4.5",
+    "@bahmutov/add-typescript-to-cypress": "2.1.1",
+    "@types/mockjs": "^1.0.2",
+    "babel-loader": "8.0.6",
+    "cypress": "3.4.0",
+    "cypress-promise": "^1.0.2",
+    "mockjs": "^1.0.1-beta3",
+    "typescript": "3.5.1",
+    "webpack": "4.33.0"
+  }
+}

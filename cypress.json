@@ -1,0 +1,11 @@
+{
+  "taskTimeout": 30000,
+  "pageLoadTimeout": 20000,
+  "responseTimeout": 10000,
+  "viewportHeight": 600,
+  "viewportWidth": 1280,
+  "testFiles": "**/*.spec.ts",
+  "supportFile": "cypress/support/index.ts",
+  "watchForFileChanges": false,
+  "video": false
+}
